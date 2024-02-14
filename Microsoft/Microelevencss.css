@@ -1,0 +1,16 @@
+.e1{
+    background-image: url("https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/145420_Word_AppPageRedesign_Footer_Desktop_RE4WTC5?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=100&fit=constrain");
+    height: 400px;
+    color: white;
+    margin-left: 100px;
+    
+}
+.btn1{
+    border-color: white;
+    color: white;
+}
+.btn2{
+    color: rgb(0, 174, 255);
+    background-color: white;
+
+}

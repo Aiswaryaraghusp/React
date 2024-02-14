@@ -1,0 +1,20 @@
+.demo{
+    color: cornflowerblue;
+    font-size: 20px;
+    text-align: center;
+}
+.demo1{
+   font-size: 10px;
+}
+
+.demo3{
+    color: cornflowerblue;
+    font-size: 20px;
+    alt: initial;
+
+}
+.demo4{
+    width: 500px;
+    height: 300px;
+    
+}

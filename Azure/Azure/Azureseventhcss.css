@@ -1,0 +1,10 @@
+.s1{
+    background-image: url("https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Desktop-AzureRegions-2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=3200&hei=983&qlt=95&fmt=png-alpha&fit=constrain");
+    text-align: center;
+    height: 300px;
+    color: white;
+
+}
+.s2{
+    background-image: url("https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Desktop-DataCard-Background?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=560&qlt=85&fit=constrain");
+}

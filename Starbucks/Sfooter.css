@@ -1,0 +1,10 @@
+.footer{
+    background-color:rgb(9, 52, 29);
+    color: white;
+    
+}
+.d{
+    display: flex;
+    flex-direction: row;
+    
+}

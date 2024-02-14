@@ -1,0 +1,89 @@
+.body{
+  
+    background-image: url(https://gumlet.assettype.com/bloombergquint/2022-10/882ee734-5c0a-4183-be98-88ed9bef94a9/Amazon_Festival_sale.jfif?w=1200&h=675);
+    background-size:cover ;
+   
+}
+.navigationbar{
+    margin-top: 10px;
+    height: 10px;
+}
+    .hea{
+    height: 100px;
+    width: 1999px;
+    background-color: black;
+    color: white;
+
+    position: absolute ;
+    top: 0px;
+   
+    
+}
+.firstimage{
+    margin-left: 10px;
+    height:30px ;
+    width: 100px;
+}
+li{
+    list-style-type: none;
+    margin: 20px;
+
+}
+a{
+    text-decoration: none;
+
+}
+ul{
+    display:flex;
+    margin: 20px;
+}
+.body{
+    margin-top: 800px;
+    height: 500px;
+    width: 400px;
+    background-color: white;
+    margin: 10px;
+    margin-left: 100px;
+    position: absolute;
+    top: 200px;
+    left: 100px;
+    border-radius: 10px;
+
+}
+
+.body2{
+    margin-top: 800px;
+    height: 500px;
+    width: 400px;
+    background-color: white;
+    margin: 10px;
+    margin-left: 100px;
+    position: absolute;
+    top: 200px;
+    left: 600px;
+    border-radius: 10px;
+
+}
+.firstdiv{
+   
+    margin-left: 50px;
+    margin: 20px;
+
+
+}
+
+.divimg1{
+    height: 100px;
+    width: 200px;
+}
+
+.divimg2{
+    height: 100px;
+    width: 200px;
+}
+
+.nt{
+    height: 20px;
+    width: 20px;
+    background-color: orange;
+}

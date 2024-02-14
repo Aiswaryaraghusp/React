@@ -1,0 +1,13 @@
+.footer1{
+    background-color: black;
+    color: white;
+   text-align: center;
+   margin-top: 700px;
+
+}
+.button1{
+    width: 200px;
+    height: 30px;
+    color: black;
+    border-radius: 8px;
+}

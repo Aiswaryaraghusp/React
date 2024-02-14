@@ -1,0 +1,30 @@
+.two{
+    display: flex;
+    flex-direction: row;
+   margin-top:0px;
+   width: 50%;
+   margin-left: 0px;
+}
+
+.three{
+    background-color:#336cc8;
+    height: 400px;
+    width: 650px;
+    color: white;
+    margin-top: 0px;
+    text-align: center;
+  
+   
+}
+
+
+.four{
+    height: 400px;
+    width: 647px;
+}
+.n1{
+    background-color:  #0078d4;
+    height: 50px;
+    color: white;
+
+}

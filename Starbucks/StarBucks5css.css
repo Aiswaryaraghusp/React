@@ -1,0 +1,17 @@
+.im1{
+    background-image: url("https://preprodtsbstorage.blob.core.windows.net/cms/uploads/coffee_culture_blog_web1_c6e691b286.jpg");
+    border-radius: 10px;
+   margin-left: 50px;
+   margin-left: 50px;
+   height: 300px;
+   width: 80%;
+}
+.im2{
+    margin-top: 70px;
+    margin-left: 80px;
+}
+.im3{
+    border-radius: 10px;
+    background-color: white;
+    height: 30px;
+}
